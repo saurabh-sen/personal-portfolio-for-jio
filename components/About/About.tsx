@@ -14,7 +14,7 @@ const About = () => {
           <p className="content__heading text-xl md:text-3xl font-medium mb-2">Hi, I&apos;m <Link href="https://saurabhsen.me" className="relative font-bold">SAURABH SEN
           <div className='absolute -bottom-2 left-0 z-10 bg-primary h-[3px] w-full' />
           </Link>.</p>
-          <p className="content__desc text-sm md:text-2xl leading-loose">I&apos;m a designer & developer with a passion for web design. I enjoy developing simple, clean and slick websites that provide real value to the end user. Thousands of clients have procured exceptional results while working with me. Delivering work within time and budget which meets client&apos;s requirements is our moto.</p>
+          <p className="content__desc text-sm md:text-2xl leading-loose">Hey 👋, I am a Frontend Developer with a passion for building beautiful and functional user interfaces. I am a self-taught developer and I love to learn new things. I am a quick learner and I am always ready to take up new challenges. I have experience in working with HTML-5, CSS-3, VanillaJS, ReactJS, NextJS-13, TypeScript, Tailwind CSS and exploring new efficient technologies.</p>
         </div>
         <Image className='w-40 md:w-56' src={js_bg} alt='js_bg' />
       </div>
