@@ -5,6 +5,7 @@ import js_bg from "@/public/javascript-logo.png"
 import Link from 'next/link'
 
 const About = () => {
+  
   return (
     <section id='about' className='about px-6 py-12 md:p-24'>
       <p className="about__text bg-primary px-2 py-1 w-max mx-auto text-xs md:text-sm font-medium">About Me</p>
